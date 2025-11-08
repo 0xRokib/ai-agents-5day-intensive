@@ -7,6 +7,7 @@
 This repository is my personal workspace for the **5-Day AI Agents Intensive** course by Google and Kaggle. The course covers fundamental concepts, architectures, tools, and best practices for building AI agents using Google's Gemini API.
 
 **Course Goals:**
+
 - Learn to build practical AI agents
 - Explore multi-agent architectures and tool use
 - Master evaluation and scaling techniques
@@ -31,8 +32,8 @@ This repository is my personal workspace for the **5-Day AI Agents Intensive** c
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/ai-agents-intensive-2025-google-challenge.git
-cd ai-agents-intensive-2025-google-challenge
+git clone https://github.com/yourusername/ai-agents-5day-intensive.git
+cd ai-agents-5day-intensive
 
 # Open in VSCode or your preferred editor
 code .
